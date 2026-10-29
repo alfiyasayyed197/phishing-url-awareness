@@ -84,5 +84,5 @@ Use the reserved sample strings for practice. Do not collect credentials, send p
 ## Author
 
 Sayyed Alfiya  
-Batch / Course: Add your batch or course name before publishing.
+Course: Cybersecurity Internship (EWB)
 
